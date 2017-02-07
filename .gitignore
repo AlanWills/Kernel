@@ -1,0 +1,9 @@
+Debug/
+Release/
+*.tlog
+*.db
+*.opendb
+*.TMP
+ipch/
+ErrorLog.txt
+Profiling.txt
